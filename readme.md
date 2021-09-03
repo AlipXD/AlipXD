@@ -1,4 +1,4 @@
-# 𝑺𝒆𝒍𝒂𝒎𝒂𝒕 𝑫𝒂𝒕𝒂𝒏𝒈 𝑩𝒂𝒏𝒈 𝑯𝒆𝒌𝒆𝒍 />  
+# 𝑺𝒆𝒍𝒂𝒎𝒂𝒕 𝑫𝒂𝒕𝒂𝒏𝒈 𝑯𝒆𝒌𝒆𝒍 />  
 <p align="center"><a href="https://github.com/AlipXD"><img src="https://github.com/AlipXD/AlipXD/blob/main/1630678841.png" height='195' alt="AlipXD profile">
 <a href="https://github.com/AlipXD"><img title="AlipXD" src="https://github-readme-stats.vercel.app/api?username=AlipXD&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=3200"></a>
 <a href="https://github.com/AlipXD"><img title="AlipXD" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlipXD&layout=compact&theme=nightowl"></a><br>
